@@ -1,7 +1,7 @@
 {
   "versionCode": 84,
   "versionName": "H8.4",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "apkUrl": "https://github.com/surajharogoppa/zygoxbilling-updates/releases/download/H8.4/zygoxbillingv8.4.apk",
   "releaseNotes": "GST fixes and performance improvements"
 }
